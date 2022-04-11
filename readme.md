@@ -22,6 +22,6 @@
 <li> Use cat and define readme.md as your target to see the differences</li>
 <li> Add all files using git add .</li>
 <li> Use git commit to commit and add change log note </li>
-<li> Push using git push origin differences <li>
+<li> Push using git push origin differences </li>
 <li> To merge use the command git checkout master and then git merge differences and it will be merge, to do opposit use differences first and master later </li>
 <li> To add a collaborator in your git repo, go to your github repo, setting and add them as collaborator to the repo </li>
