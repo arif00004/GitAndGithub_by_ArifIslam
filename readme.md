@@ -23,3 +23,4 @@ Use cat and define readme.md as your target to see the differences
 Add all files using git add .
 Use git commit to commit and add change log note
 push using git push origin differences
+To merge use the command git checkout master and then git merge differences and it will be merge, to do opposit use differences first and master later
