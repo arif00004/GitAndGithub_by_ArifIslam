@@ -1,7 +1,7 @@
 <li> To clone the git repo you created in your github account use command git clone and then paste the link to the repo</li>
 <li> To check branch of of the repo use the command git branch</li>
 <li> To create text files use command touch then define the name of the files you are creating. For this example our command is touch git.txt github.txt</li>
-<li> To write and add 100 words in the text files use the command echo then use double quote to add your text. once the text is added, close the double quote and define the file where you want to write it by using >>name of the file. An alternative an easy way to do this is using nano command and opening the file where you want to do it </li>
+<li> To write and add 100 words in the text files use the command echo then use double quote to add your text. once the text is added, close the double quote and define the file where you want to write it by using >>name of the file. An alternative and easy way to do this is using nano command and opening the file where you want to do it </li>
 <li> To create your readme.md file use the command touch and define your file name</li>
 <li> To write all the steps and commands in readme file use the command echo and then use double quote your texts and steps while defining destination as readme.md. You can also do it through nano command very easily and that is better than echo command </li>
 <li> Add all files to Git using the command git add .</li>
