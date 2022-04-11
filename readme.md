@@ -27,4 +27,4 @@
 <li> Push using git push origin differences </li>
 <li> To merge use the command git checkout master and then git merge differences and it will be merge, to do opposit use differences first and master later </li>
 <li> To switch between branches you can use the command git switch name of the branch </li>
-<li> To add a collaborator in your git repo, go to your github repo, setting and add them as collaborator to the repo </li>
+<li> To add a collaborator in your git repo, go to your github repo, setting and add them as collaborator to the repo. Alternatively a public tocken can be provided </li>
