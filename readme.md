@@ -20,3 +20,6 @@ To create your new file use the touch command and define the name as differences
 Write or add your texts using echo command in differences.txt file
 Update your readme.md file using echo command and record the instructions as per assignment guideline
 Use cat and define readme.md as your target to see the differences
+Add all files using git add .
+Use git commit to commit and add change log note
+push using git push origin differences
