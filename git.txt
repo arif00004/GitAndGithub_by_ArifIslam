@@ -1,7 +1,10 @@
 From 2012, Microsoft became a significant user of GitHub, using it to host open-source projects and development tools such as .NET Core, Chakra Core, MSBuild, PowerShell, PowerToys, Visual Studio Code, Windows Calculator, Windows Terminal and the bulk of its product documentation (now to be found on Microsoft Docs).
+
 Features of git
-tracks history
-free and open source
-Support non linear developments
-Create backups
-scalable
+- Tracks history
+- Free and open source
+- Support non linear developments
+- Create backups
+- Scalable
+
+

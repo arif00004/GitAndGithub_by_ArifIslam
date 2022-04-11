@@ -1,5 +1,6 @@
 Git vs Github differences
-Git installed locally while Github is in cloud
-Git first released in 2005 while Github launched in 2008
-Git is maintained by linux foundation while Github is managed/purchased by Microsoft
-Git is primarily a command-line tool while Github is administered through the web
+
+- Git installed locally while Github is in cloud
+- Git first released in 2005 while Github launched in 2008
+- Git is maintained by linux foundation while Github is managed/purchased by Microsoft
+- Git is primarily a command-line tool while Github is administered through the web
